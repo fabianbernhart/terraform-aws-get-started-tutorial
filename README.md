@@ -6,7 +6,7 @@
 terraform init
 ```
 
-## 2. validate Terraform files
+## 2. Validate Terraform files
 ```sh
 terraform fmt
 ```
@@ -14,3 +14,9 @@ terraform fmt
 ```sh
 terraform apply
 ```
+
+## Tutorial: Progress:
+
+Steps: 3 / 8 
+
+#### [AWS Terraform Tutorial](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
