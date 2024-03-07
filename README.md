@@ -19,8 +19,14 @@ terraform apply
 terraform destroy
 ```
 
+## 4. Display Output
+```sh
+terraform output
+```
+
+
 ## Tutorial: Progress:
 
-Steps: 6 / 8 
+Steps: 7 / 8 
 
 #### [AWS Terraform Tutorial](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
