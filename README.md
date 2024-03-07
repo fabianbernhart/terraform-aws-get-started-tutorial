@@ -10,13 +10,17 @@ terraform init
 ```sh
 terraform fmt
 ```
-## 3. Apply Terraform files to AWS
+## 3. Apply the latest changes to AWS
 ```sh
 terraform apply
+```
+## 4. Destroys the EC2 Instance after apply
+```sh
+terraform destroy
 ```
 
 ## Tutorial: Progress:
 
-Steps: 3 / 8 
+Steps: 5 / 8 
 
 #### [AWS Terraform Tutorial](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
