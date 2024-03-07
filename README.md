@@ -21,6 +21,6 @@ terraform destroy
 
 ## Tutorial: Progress:
 
-Steps: 5 / 8 
+Steps: 6 / 8 
 
 #### [AWS Terraform Tutorial](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
